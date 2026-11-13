@@ -22,6 +22,5 @@ While most SEO agencies focus strictly on basic blog writing, I specialize in th
 If you're building a great product or site and want to ensure search engines (and AI models) can actually find and rank it, let's connect:
 
 * 🌐 **Website & Case Studies:** https://aprilpad.com
-* 🩺 **Free 2-Minute Technical Micro-Audit:** [://yourwebsite.com](https://://yourwebsite.com)
-* 💼 **LinkedIn:** 
+* 🩺 **Free 2-Minute Technical Micro-Audit:** https://aprilpad.com/2-minute-audit-for-your-site-that-will-change/
 * 📧 **Direct Email:**services@aprilpad.com
