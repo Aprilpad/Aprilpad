@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Warner Williams, Founder of April Pad SEO Services. I help SaaS founders, e-commerce brands, and engineering teams turn fast web architectures into compounding organic search traffic. 
+### Hi there 👋 I'm Warner Williams, Founder of April Pad SEO Services. 
+I help SaaS founders, e-commerce brands, and engineering teams turn fast web architectures into compounding organic search traffic. 
 
 While most SEO agencies focus strictly on basic blog writing, I specialize in the **technical intersection of web performance, data architecture, and search engine visibility**.
 
