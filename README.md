@@ -14,7 +14,7 @@ While most SEO agencies focus strictly on basic blog writing, I specialize in th
 ---
 
 ### 📂 Free Open-Source SEO Resources
-* 🔍 **[GSC Regex Filter Library https://github.com/Aprilpad/gsc-regex-filters]* — Copy-paste regular expressions to uncover hidden long-tail queries in Google Search Console.
+* 🔍 **[GSC Regex Filter Library https://github.com/Aprilpad/gsc-regex-filters* — Copy-paste regular expressions to uncover hidden long-tail queries in Google Search Console.
 
 ---
 
